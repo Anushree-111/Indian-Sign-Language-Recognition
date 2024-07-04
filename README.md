@@ -5,12 +5,12 @@ This project focuses on real-time sign language detection using hand landmarks e
 
 **Key Dependencies:**
 
-*Python: Programming language used throughout the project.
-*OpenCV: Library for computer vision tasks such as video capture, image processing, and visualization.
-*Mediapipe: Google's framework for building applied machine learning pipelines, utilized for detecting and tracking hand landmarks.
-*NumPy: Library for numerical operations, facilitating efficient array manipulation and data handling.
-*Scikit-learn: Python machine learning library used to train a Random Forest classifier for gesture recognition.
-*Pickle: Python module for object serialization, employed to save trained machine learning models.
+* Python: Programming language used throughout the project.
+* OpenCV: Library for computer vision tasks such as video capture, image processing, and visualization.
+* Mediapipe: Google's framework for building applied machine learning pipelines, utilized for detecting and tracking hand landmarks.
+* NumPy: Library for numerical operations, facilitating efficient array manipulation and data handling.
+* Scikit-learn: Python machine learning library used to train a Random Forest classifier for gesture recognition.
+- Pickle: Python module for object serialization, employed to save trained machine learning models.
 
 
 **Scripts:**
